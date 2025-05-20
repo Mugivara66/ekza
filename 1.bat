@@ -1,0 +1,1 @@
+curl -L -o demka.rar https://github.com/FostGipa/demo/raw/refs/heads/main/pg1.zip
